@@ -2,6 +2,8 @@
 
 # NetPractice
 
+![result](./correction.png)
+
 ## Description
 
 NetPractice is a pedagogical project from the 42 curriculum focused on network
